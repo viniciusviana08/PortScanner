@@ -12,7 +12,7 @@ Vinicius Viana
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/PortScanner.git
+   git clone https://github.com/viniciusviana08/PortScanner.git
    cd PortScanner
    python port_scanner.py
 
